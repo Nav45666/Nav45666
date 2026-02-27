@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2>Hey There 👋</h2>
+Abhinav Dahake | Electronics Engineering Student
 
-<!--
-**Nav45666/Nav45666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics engineering student with a strong foundation in core electronics, programming, and problem-solving. I work at the intersection of hardware concepts and software implementation, with hands-on experience in C/C++, data structures, control systems, robotics fundamentals, and circuit analysis. I value clear documentation, consistency, and continuous improvement.
 
-Here are some ideas to get you started:
+I regularly build and refine:
+• Electronics & engineering problem solutions (OP-AMPs, control systems, signal processing basics)
+• C/C++ projects using STL, data structures, and algorithmic thinking
+• Robotics & automation concepts (sensors, control logic, system modeling)
+• Academic & practical projects, well-documented for clarity and reuse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on strengthening:
+• Embedded & core electronics concepts
+• Problem-solving with C/C++
+• Practical, industry-oriented projects
+Always open to learning, collaboration, and opportunities where engineering fundamentals matter.
