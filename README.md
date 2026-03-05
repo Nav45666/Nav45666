@@ -4,7 +4,7 @@ A Electronics engineering student with a strong foundation in core electronics, 
 
 I regularly practice and build on topics like:
 
-• Electronics & engineering projects involving embedded systems, microcontrollers, op-amps and other electonic components
+• Electronics engineering projects involving embedded systems, microcontrollers, op-amps and other electonic components
 
 • Learning Data structure and Algorithms using C/C++,  
 
